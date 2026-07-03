@@ -1,0 +1,6 @@
+{
+  "name": "Dinar Mc",
+  "description": "Kelola waktu istirahat tim Anda dengan presisi dan efisiensi tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
